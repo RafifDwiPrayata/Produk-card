@@ -1,6 +1,7 @@
 .body{
-    background-color: aqua;
+    background-color: #1E201E;
     font-family: Arial;
+    margin-top: 10%;
 }
 
 .product-card{
@@ -19,7 +20,7 @@
 }
 
 .product-image{
-    background-color: rgb(0, 179, 255);
+    background-color: #697565;
     text-align: center;
     padding: 25px 0;
     margin-bottom: 30px;
@@ -45,7 +46,7 @@
     float: right;
     font-weight: bold;
     font-size: 20px;
-    color: red;
+    color: #1E201E;
     margin-right: 20px;
  
 }
@@ -58,7 +59,7 @@
 .product-bottom{
     text-decoration: none;
     padding: 10px 20px;
-    color: white;
+    color: #ECDFCC;
     border-radius: 5px;
     font-weight: bold;
    
@@ -66,13 +67,13 @@
 
 .product-buy-now{
     float: left;
-    background-color: red;
+    background-color: #697565;
 
 }
 
 .product-add-to-cart{
     float: right;
-    background-color: rgb(0, 140, 255);
+    background-color: #697565;
 }
 
 .product-margin-left{
